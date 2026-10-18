@@ -10,6 +10,7 @@ A Minecraft base-hunting utility designed to help players locate hidden bases, a
 - **Customisable Settings** — Configure the tool to suit your preferences.
 - **Performance Focused** — Designed with efficiency in mind.
 - **User-Friendly Interface** — Simple controls and clear information.
+- **Working Dupe** — Easy to use duplication glitch!
 
 ## Requirements
 
